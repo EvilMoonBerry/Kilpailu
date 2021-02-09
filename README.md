@@ -1,2 +1,1 @@
-# Kilpailu
-# Visma kilpailua varten
+# Visma kilpailua varten 
